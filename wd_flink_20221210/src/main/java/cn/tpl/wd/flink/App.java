@@ -14,7 +14,7 @@ public class App {
         FlinkSqlJobConfig sqlJobConfig = FlinkSqlJobConfig.from(args);
         FlinkSqlExecutor flinkSqlExecutor = new FlinkSqlExecutor(sqlJobConfig);
         flinkSqlExecutor.executeSql();
-        System.out.println("test git revert");
+        System.out.println("test123 git revert");//测试分支冲突
     }
 
 
