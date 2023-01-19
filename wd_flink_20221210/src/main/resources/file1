@@ -1,5 +1,5 @@
 System.out.println("123  git revert");
 从revert分支开始修改代码
-从dev分支开始修改代码（从本地修改的dev代码3）
+从dev分支开始修改代码（从本地修改的dev代码test stash）test stash
 从dev分支开始修改代码（从本地修改的dev代码3）
 
