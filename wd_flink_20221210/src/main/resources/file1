@@ -1,7 +1,7 @@
 System.out.println("123  git revert");
 从revert分支开始修改代码
 从dev分支开始修改代码（从远程修改的dev代码4）
-从dev分支开始修改代码（从本地修改的dev代码test stash）test stash reject 02
+从dev分支开始修改代码（从本地修改的dev代码test stash）test stash reject 03
 从dev分支开东方红始修改代码（从本地修改的dev代码3）
 从dev分支开东方红始修改代码（从本地修改的dev代码3）555
 
